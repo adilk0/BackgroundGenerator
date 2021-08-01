@@ -1,0 +1,19 @@
+{
+  "name": "backgroundgenerator",
+  "version": "1.0.0",
+  "description": "This is used to change the background. Pick anyone and select you want.",
+  "main": "color.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adilk0/BackgroundGenerator.git"
+  },
+  "author": "Adil Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adilk0/BackgroundGenerator/issues"
+  },
+  "homepage": "https://github.com/adilk0/BackgroundGenerator#readme"
+}
